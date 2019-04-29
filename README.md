@@ -1,5 +1,7 @@
 # pm_curve25519
 
+- https://pub.dartlang.org/packages/pm_curve25519
+
 Generate curve25519 key-pair. Sign messages with the same key-pair by translating the point curves to do ed25519 signing.
 
 ## Getting Started
