@@ -1,3 +1,6 @@
+## 0.5.3 - April 29, 2019
+* Fixed example README.md again
+
 ## 0.5.2 - April 29, 2019
 * Fixed example README.md
 

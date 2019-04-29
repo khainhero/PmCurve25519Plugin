@@ -27,16 +27,12 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-```
 
-```dart
 class MyHomePage extends StatefulWidget {
   @override
   _MyHomePageState createState() => _MyHomePageState();
 }
-```
 
-```dart
 class _MyHomePageState extends State<MyHomePage> {
   static const platform = const MethodChannel('PmCurve25519');
   
