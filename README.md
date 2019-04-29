@@ -10,7 +10,9 @@ dependencies:
   pm_curve25519: any
 ```
 
-__Important:__ For iOS, manually update your podfile. Go into iOS folder in terminal and execute without quotes: "pod install --repo-update"
+__Important:__ For iOS, manually update your podfile. Go into iOS folder in terminal and execute without quotes:
+
+"pod install --repo-update"
     
 ## Usage example
 
