@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Signal Protocol Attempt',
+      title: 'pm_curve25519_plugin',
       theme: ThemeData(
         brightness: Brightness.dark,
         accentColor: Colors.lightBlue,
@@ -33,7 +33,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Signal Protocol'),
+        title: const Text('pm_curve25519 test'),
         centerTitle: true,
       ),
       body: testCrypto(context),
