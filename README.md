@@ -17,6 +17,7 @@ __Important:__ For iOS, manually update your podfile. Go into iOS folder in term
 ## Usage example
 
 ```dart
+
 import 'package:pm_curve25519/pm_curve25519.dart';
 import 'dart:async';
 import 'dart:typed_data';

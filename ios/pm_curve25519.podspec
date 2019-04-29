@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'pm_curve25519'
-  s.version          = '0.5.4'
+  s.version          = '0.5.5'
   s.summary          = 'Flutter plugin to generate curve25519 and sign messages utilizing ed25519'
   s.description      = <<-DESC
 A new flutter plugin project.

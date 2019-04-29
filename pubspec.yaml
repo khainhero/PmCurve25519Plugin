@@ -1,6 +1,6 @@
 name: pm_curve25519
 description: A new flutter plugin project for generating Curve25519 key-pairs and sign messages.
-version: 0.5.4
+version: 0.5.5
 author: Farooq <dallifaro@gmail.com>
 homepage: https://github.com/khainhero/PmCurve25519Plugin
 
