@@ -1,3 +1,6 @@
+## 0.5.2 - April 29, 2019
+* Fixed example README.md
+
 ## 0.5.1 - April 29, 2019
 * Added License
 * Added example README.md
