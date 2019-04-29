@@ -1,0 +1,21 @@
+name: pm_curve25519
+description: A new flutter plugin project.
+version: 0.5.0
+author: Farooq <dallifaro@gmail.com>
+homepage: 
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+    
+flutter:
+  plugin:
+    androidPackage: com.example.pm_curve25519
+    pluginClass: PmCurve25519Plugin

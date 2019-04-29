@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pm_curve25519.iml" filepath="$PROJECT_DIR$/pm_curve25519.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/pm_curve25519_android.iml" filepath="$PROJECT_DIR$/android/pm_curve25519_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/pm_curve25519_example_android.iml" filepath="$PROJECT_DIR$/example/android/pm_curve25519_example_android.iml" />
+    </modules>
+  </component>
+</project>

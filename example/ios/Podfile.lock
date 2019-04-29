@@ -1,0 +1,29 @@
+PODS:
+  - 25519 (2.0.2)
+  - Flutter (1.0.0)
+  - pm_curve25519 (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - 25519 (~> 2.0.2)
+  - Flutter (from `.symlinks/flutter/ios-release`)
+  - pm_curve25519 (from `.symlinks/plugins/pm_curve25519/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - '25519'
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios-release"
+  pm_curve25519:
+    :path: ".symlinks/plugins/pm_curve25519/ios"
+
+SPEC CHECKSUMS:
+  '25519': dc4bad7e2dbcbf1efa121068a705a44cd98c80fc
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  pm_curve25519: 076a85f2ed0a4d5c45e9910dc2b439b4c8817189
+
+PODFILE CHECKSUM: c582235ce353e3ee6a831ca5cbbab0252fe91367
+
+COCOAPODS: 1.7.0.beta.3
