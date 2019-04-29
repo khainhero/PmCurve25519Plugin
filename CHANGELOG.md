@@ -1,3 +1,6 @@
+## 0.5.6 - April 29, 2019
+* Formatted pm_curve25519.dart
+
 ## 0.5.5 - April 29, 2019
 * Edited README
 
