@@ -1,3 +1,6 @@
+## 0.5.7 - April 29, 2019
+* Fixed typo in README.md
+
 ## 0.5.6 - April 29, 2019
 * Formatted pm_curve25519.dart
 
