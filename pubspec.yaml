@@ -1,8 +1,8 @@
 name: pm_curve25519
-description: A new flutter plugin project.
-version: 0.5.0
+description: A new flutter plugin project for generating Curve25519 key-pairs and sign messages.
+version: 0.5.1
 author: Farooq <dallifaro@gmail.com>
-homepage: 
+homepage: https://github.com/khainhero/PmCurve25519Plugin
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
@@ -14,7 +14,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-    
+
 flutter:
   plugin:
     androidPackage: com.example.pm_curve25519
