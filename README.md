@@ -29,7 +29,9 @@ Uint8List secretKey = pair.secretKey;
 //on iOS, secret-key is actually an encoded object which is a key-pair. Treat it as if its a secret-key
 
 print(publicKey);
-print(secretKey);//very lengthy on iOS
+//very lengthy on iOS(secret-key)
+print(secretKey);
+
 
 //Calculate signature with input Message and your secret-key
 String msg = "Hello World";
