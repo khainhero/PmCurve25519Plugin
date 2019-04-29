@@ -1,7 +1,8 @@
 PODS:
   - 25519 (2.0.2)
   - Flutter (1.0.0)
-  - pm_curve25519 (0.0.1):
+  - pm_curve25519 (0.5.4):
+    - 25519 (~> 2.0.2)
     - Flutter
 
 DEPENDENCIES:
@@ -22,7 +23,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   '25519': dc4bad7e2dbcbf1efa121068a705a44cd98c80fc
   Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
-  pm_curve25519: 076a85f2ed0a4d5c45e9910dc2b439b4c8817189
+  pm_curve25519: 561b7f1239e7f1696eed30c7f8291d084de2aaee
 
 PODFILE CHECKSUM: c582235ce353e3ee6a831ca5cbbab0252fe91367
 

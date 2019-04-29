@@ -1,3 +1,6 @@
+## 0.5.4 - April 29, 2019
+* Added missing iOS dependency
+
 ## 0.5.3 - April 29, 2019
 * Fixed example README.md again
 
